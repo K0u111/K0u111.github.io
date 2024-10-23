@@ -15,12 +15,18 @@
           
           <category> 后端 </category>
           
+          <category> ubuntu </category>
+          
       </categories>
       
       
         <tags>
             
-            <tag> ubuntu docker 后端 </tag>
+            <tag> docker </tag>
+            
+            <tag> 后端 </tag>
+            
+            <tag> ubuntu </tag>
             
         </tags>
       
